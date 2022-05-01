@@ -1,0 +1,20 @@
+[
+    {
+        "messageFCMtoken": "Ljfasjdfae32412132",
+        "user": "id",
+        "notificacion": {
+            "title": "Sesion creada",
+            "body": "Nueva lectura",
+            "icon": "url"
+        }
+    },
+    {
+        "messageFCMtoken": "Ljfasjdfae32412139",
+        "user": "id 2",
+        "notificacion": {
+            "title": "Sesion creada 2 ",
+            "body": "Nueva lectura 2",
+            "icon": "url 2"
+        }
+    }
+]
